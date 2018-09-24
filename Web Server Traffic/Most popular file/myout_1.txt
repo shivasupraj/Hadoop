@@ -1,2 +1,3 @@
-/assets/css/data:image/gif;base64,AAAA	
-	117352
+version https://git-lfs.github.com/spec/v1
+oid sha256:258b244e8ccdc4d6b3509bc5bab6eb80afc1f6d45ecb43cedc59f45d551f2999
+size 50
